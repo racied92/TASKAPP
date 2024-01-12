@@ -1,6 +1,6 @@
 import { Task } from "../types/Task";
 
-const BASE_URL = "https://carpinteriamc.onrender.com/tasks";
+const BASE_URL = "https://api.jsonbin.io/v3/b/65a1bbee266cfc3fde770b14";
 
 export const TaskService = {
 
