@@ -1,6 +1,6 @@
 import { Task } from "../types/Task";
 
-const BASE_URL = "https://api.jsonbin.io/v3/b/65a1bbee266cfc3fde770b14";
+const BASE_URL = "https://github.com/racied92/backtask/task";
 
 export const TaskService = {
 
