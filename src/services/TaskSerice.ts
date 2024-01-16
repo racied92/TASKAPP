@@ -1,6 +1,6 @@
 import { Task } from "../types/Task";
 
-const BASE_URL = "https://github.com/racied92/backtask/blob/main/.gitignore/";
+const BASE_URL = "https://carpinteriamc.onrender.com/tasks";
 
 export const TaskService = {
 
